@@ -11,7 +11,10 @@
     - You want to be specific with the path otherwise you will get an error
 ### What not do do (be specific)
 - ![alt text](https://github.com/WillofMike/markdown/blob/master/images/Screen%20Shot%202018-01-15%20at%2010.51.30%20AM.png "What not to do!")
-    - You will also want to make sure that your specific with the file that is be written in the conversion.  
+
+- You will also want to make sure that your specific with the file that is be written in the conversion.  
+### The ideal way (notice the full paths of the file)
+- ![alt text](https://github.com/WillofMike/markdown/blob/master/images/Screen%20Shot%202018-01-15%20at%2010.51.30%20AM.png "The ideal way")
 
 Run the script:
 ```
