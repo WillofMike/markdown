@@ -20,13 +20,19 @@
 - Notice that the full paths are written out:
   - File to be converted: /Users/macbook/downloads/csv/testFile.csv
   - The file that is has been converted: /Users/macbook/downloads/csv/testFile.JSON
-    - Following these directions will convert any .csv file to a .json file.
+
+    Run the script:
+    ```
+    $ node csv-to-json.js <yourfile.csv> <filetowrite.json>
+    ```
+
+  - Following these directions will convert any .csv file to a .json file.
 
 - If you need to convert back into a .csv you can either access your old file or
   - [Here is an npm package](https://www.npmjs.com/package/json2csv) to convert you back
 
+### Admin
+- [Adam Smith](https://github.com/adamtysonsmith)
 
-Run the script:
-```
-$ node csv-to-json.js <yourfile.csv> <filetowrite.json>
-```
+### Contributors
+- [Mike Williams](https://github.com/WillofMike)
